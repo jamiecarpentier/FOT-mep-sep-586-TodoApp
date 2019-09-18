@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="My Open Todos item view">e99102dcb08000107f44f407b55e772e</item_view>
+        <name>Master Item</name>
+        <screen display_value="My Open Todos">e99102dcb08000107f44f407b55e7709</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:03:06</sys_created_on>
+        <sys_id>e99102dcb08000107f44f407b55e7747</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_master_item_e99102dcb08000107f44f407b55e7747</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:03:06</sys_updated_on>
+        <table>x_snc_k19tdm_todo</table>
+    </sys_sg_master_item>
+</record_update>

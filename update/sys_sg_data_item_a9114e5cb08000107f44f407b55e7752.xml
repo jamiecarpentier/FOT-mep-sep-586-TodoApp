@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Todos that are open and assigned to the logged in user</description>
+        <group_by/>
+        <name>My Open Todos</name>
+        <query_condition table="x_snc_k19tdm_todo">stateINopen,due_today,overdue^userDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORDERBYdue_date<item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="open,due_today,overdue"/>
+            <item endquery="false" field="user" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="due_date"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:00:55</sys_created_on>
+        <sys_id>a9114e5cb08000107f44f407b55e7752</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open Todos</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_data_item_a9114e5cb08000107f44f407b55e7752</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:00:55</sys_updated_on>
+        <table>x_snc_k19tdm_todo</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=a9114e5cb08000107f44f407b55e7752"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_k19tdm_todo">x_snc_k19tdm_todo</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TODO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-02 14:11:47</sys_created_on>
+        <sys_id>31216b3513e4330026093d62f244b0df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TODO</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_number_31216b3513e4330026093d62f244b0df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-02 14:11:47</sys_updated_on>
+    </sys_number>
+</record_update>
