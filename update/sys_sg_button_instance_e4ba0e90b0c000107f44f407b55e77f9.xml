@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create Todo">46a84290b0c000107f44f407b55e773e</button>
+        <description/>
+        <field_name/>
+        <label>Create New Todo</label>
+        <location>top</location>
+        <name>Create New Todo</name>
+        <order>1</order>
+        <parent>e99102dcb08000107f44f407b55e7709</parent>
+        <parent_table>sys_sg_master_detail_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:42:54</sys_created_on>
+        <sys_id>e4ba0e90b0c000107f44f407b55e77f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Todo</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e4ba0e90b0c000107f44f407b55e77f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:42:54</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e4ba0e90b0c000107f44f407b55e77f9"/>
+</record_update>

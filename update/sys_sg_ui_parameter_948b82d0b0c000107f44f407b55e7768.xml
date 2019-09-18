@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Hours">db4b42d0b0c000107f44f407b55e7731</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Hours</name>
+        <order>100</order>
+        <parameter_type>button</parameter_type>
+        <placeholder>How many hours?</placeholder>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:46:44</sys_created_on>
+        <sys_id>948b82d0b0c000107f44f407b55e7768</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hours</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_948b82d0b0c000107f44f407b55e7768</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:46:44</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=948b82d0b0c000107f44f407b55e7768"/>
+</record_update>
